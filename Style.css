@@ -1,0 +1,38 @@
+h3{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+
+h1{
+  text-align: left;
+}
+header{
+  background-color: #3e3932 to #9d9382
+}
+body{
+  background: -webkit-gradient(linear, left top, right top, from(#3e3932), to(#9d9382));
+
+
+}
+h1{
+color: gray
+}
+li{
+  text-align: left;
+  color: gray
+
+
+}
+img
+position: absolute;
+width: 261.18px;
+height: 273px;
+
+background: url(Screenshot_20230323-091053_Instagram.jpg);
+border-radius: 724.5px;
